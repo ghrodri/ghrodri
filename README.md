@@ -1,17 +1,17 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**ghrodri/ghrodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a **MS Computer Science student** at USC, Los Angeles, with a **BS in Information Systems** from the Technological University of Panama.
 
-Here are some ideas to get you started:
+## Experience
+- ✈️ Former employee at **Copa Airlines**
+- 🎓 Ex Research Assistant at the Technological University of Panama
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Initial README
+## Skills
+- 💻 Passionate about **Vision and Robotics**
+- ![Badge](https://img.shields.io/badge/Python-3.8%20%20-%233572A5)
+
+## Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/ggrimald/) | [Twitter](your-twitter) | [Website](your-website)
+
+![Some Cool Image](link-to-image)
