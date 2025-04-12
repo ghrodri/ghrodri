@@ -9,7 +9,7 @@ I'm a **MS Computer Science student** at USC, Los Angeles, with a **BS in Inform
 
 ## Skills
 - 💻 Passionate about **Vision and Robotics**
-- ![Badge](https://img.shields.io/badge/Python-3.8%20%20-%233572A5)
+- ![Badge](https://img.shields.io/badge/Python-3.10%20%20-%233572A5)
 
 ## Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/ggrimald/)
